@@ -1,0 +1,11 @@
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.exe
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.deps.json
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.runtimeconfig.json
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.runtimeconfig.dev.json
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.dll
+C:\Users\FatFox\source\repos\The magic square\The magic square\bin\Debug\netcoreapp3.1\The magic square.pdb
+C:\Users\FatFox\source\repos\The magic square\The magic square\obj\Debug\netcoreapp3.1\The magic square.csprojAssemblyReference.cache
+C:\Users\FatFox\source\repos\The magic square\The magic square\obj\Debug\netcoreapp3.1\The magic square.AssemblyInfoInputs.cache
+C:\Users\FatFox\source\repos\The magic square\The magic square\obj\Debug\netcoreapp3.1\The magic square.AssemblyInfo.cs
+C:\Users\FatFox\source\repos\The magic square\The magic square\obj\Debug\netcoreapp3.1\The magic square.dll
+C:\Users\FatFox\source\repos\The magic square\The magic square\obj\Debug\netcoreapp3.1\The magic square.pdb
