@@ -1,0 +1,2 @@
+# magicSquare
+Magic square algorithm
